@@ -4,7 +4,7 @@
 
 ### Domain: Data Science
 
-### Batch: June
+### Batch: June 2024
 
 ## Overview
 
